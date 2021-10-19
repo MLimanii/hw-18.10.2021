@@ -34,6 +34,24 @@
             echo "Have a Good Day!";
         }
 
+        // switch ($time) {
+        //     case ($time < "19"):
+        //         echo "<p>Good morning!</p>";
+        //     break;
+        //     case ($time >= "12" && $time < "17") :
+        //         echo "<p>Good afternoon!</p>";
+        //     break;
+        //     case ($time >= "17" && $time < "19") :
+        //         echo "<p>Good evening!</p>";
+        //     break;
+        //     case ($time >= "19") :
+        //         echo "<p>Good night!</p>";
+        //     break;
+        //     default:
+        //     echo "Have a Good Day!";
+        //     break;
+        // }
+
     ?>
 
 </body>
